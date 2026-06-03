@@ -1,12 +1,15 @@
-# Hi 👋, I'm Trung Hồ
+<p align="center">
+  <img src="đường_dẫn_đến_file_gif_của_bạn.gif" alt="Glow Banner" width="100%" style="border-radius: 8px;">
+</p>
+# Hi, I'm Trung Hồ
 
 ### A budding C# developer
 
-- 🔭 I'm currently working on **Freelance and FPT Software**
+-  I'm currently working on **Freelance and FPT Software**
 
 - 🌱 I'm currently learning **FPT University in Da Nang city**
 
-- 👯 I'm looking to collaborate on **Amazon or many platform on the world**
+-  I'm looking to collaborate on **Amazon or many platform on the world**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
