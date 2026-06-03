@@ -12,12 +12,6 @@
 ### 📊 GitHub Analytics 📊
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungho20050-lang&layout=compact&theme=tokyonight" alt="Most Used Languages" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api?username=trungho20050-lang&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="200" />
-</p>
-
-### 🐍 Contribution Snake 🐍
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/trungho20050-lang/trungho20050-lang/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=trungho20050-lang&layout=compact&theme=tokyonight" alt="Most Used Languages" height="200" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=trungho20050-lang&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="200" />
 </p>
