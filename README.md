@@ -1,4 +1,4 @@
-# trungho20050-
+# trungho20050-lang
 ### 🛠 Professional Tech Stack 🛠
 
 | 💻 Languages & Core | 🌐 Web Frameworks |
